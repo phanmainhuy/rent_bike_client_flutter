@@ -1,0 +1,24 @@
+{
+  "LOGIN": "Đăng nhập",
+  "REGISTER" : "Đăng ký",
+  "CUSTOMER_LIST" : "Danh sách khách hàng",
+  "STATISTICS" : "Thống kê",
+  "VEHICLE_LIST" : "Danh sách xe máy",
+  "RENT_BIKE" : "Rent Bike",
+  "VEHICLE_FEE" : "Danh sách thuê xe",
+  "VEHICLE_REGISTRATION" : "Đăng ký xe máy",
+  "CUSTOMER_REGISTRATION" : "Đăng ký khách hàng",
+  "VEHICLE_RENTAL_REGISTRATION" : "Đăng ký thuê xe",
+  "REPAIR_VEHICLE_REGISTRATION" : "Đăng ký sửa xe",
+  "EVENT_CALENDAR" : "Nhắc lịch",
+  "LOGOUT" : "Đăng xuất",
+  "SEARCH" : "Tìm kiếm",
+
+  "NOTIFICATION" : "Thông báo",
+  "HOME" : "Trang chủ",
+  "PROFILE" : "Cá nhân",
+
+  "HOME_PAGE" : "Trang chủ",
+  "PROFILE_PAGE": "Thông tin cá nhân"
+
+}

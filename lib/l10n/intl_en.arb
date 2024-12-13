@@ -1,0 +1,26 @@
+
+{
+  "LOGIN" : "Login",
+  "REGISTER" : "Register",
+  "CUSTOMER_LIST" : "Customer List",
+  "STATISTICS" : "Statistics",
+  "VEHICLE_LIST" : "Vehicle List",
+  "RENT_BIKE" : "Rent Bike",
+  "VEHICLE_FEE" : "Vehicle Fee",
+  "VEHICLE_REGISTRATION" : "Vehicle Registration",
+  "CUSTOMER_REGISTRATION" : "Customer Registration",
+  "VEHICLE_RENTAL_REGISTRATION" : "Vehicle Rental Registration",
+  "REPAIR_VEHICLE_REGISTRATION" : "Repair Vehicle Registration",
+  "EVENT_CALENDAR" : "Event Calendar",
+  "LOGOUT" : "Logout",
+  "SEARCH" : "Search",
+
+  "NOTIFICATION" : "Notification",
+  "HOME" : "Home",
+  "PROFILE" : "Profile",
+
+  "HOME_PAGE" : "Home Page",
+  "PROFILE_PAGE": "Profile Page"
+
+
+}
